@@ -8,7 +8,7 @@
     "author": "Microsoft",
     "license": "MIT",
     "devDependencies": {
-        "electron": "~1.7.8"
+        "electron": "~18.3.7"
     },
     "dependencies": {
         "node-ipc": "9.1.1",
